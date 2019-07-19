@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Setup.exe",
+    "Size": 6673408,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": "1.0.0.2|\n• Добавлена поддержка программы удаления.\n• При каждом запуске установщика теперь будет производиться проверка на наличие новых версий всех его файлов.\n• Теперь разрядность установщика зависит от разрядности операционной системы."
+  },
+  {
+    "Name": "Game.zip",
+    "Size": 711716152,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": "Добавлена программа удаления."
+  },
+  {
+    "Name": "ruRU-Фаргус.zip",
+    "Size": 184632193,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "ruRU-Stream.zip",
+    "Size": 101281615,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "ruRU-daemon.zip",
+    "Size": 104906396,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "plPL-Noktis.zip",
+    "Size": 96765501,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "frFR-Protheus.zip",
+    "Size": 18162485,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "deDE-Iljitsch.zip",
+    "Size": 80081484,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "csCZ-Raptor.zip",
+    "Size": 644139,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  },
+  {
+    "Name": "csCZ-Adam Rambousek.zip",
+    "Size": 1840518,
+	"URL": "http://gestyy.com/w2bdXQ",
+    "Comment": ""
+  }
+]
