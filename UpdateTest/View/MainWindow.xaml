@@ -1,0 +1,138 @@
+﻿<Controls:MetroWindow
+    x:Class="UpdateTest.View.UpdateView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+    xmlns:local="clr-namespace:UpdateTest.ViewModel"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:tbe="clr-namespace:TextBlockExt"
+    Title="Найдено обновление"
+    MaxWidth="900"
+    MaxHeight="540"
+    BorderBrush="{DynamicResource AccentColorBrush}"
+    BorderThickness="1"
+    IsMinButtonEnabled="False"
+    ResizeMode="NoResize"
+    ShowCloseButton="True"
+    ShowIconOnTitleBar="False"
+    ShowInTaskbar="False"
+    ShowMaxRestoreButton="False"
+    ShowMinButton="False"
+    ShowTitleBar="True"
+    SizeToContent="WidthAndHeight"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d">
+
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <ToggleButton
+                Margin="0,0,5,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Foreground="Yellow"
+                IsChecked="{Binding ElementName=UpfHelp_Flyout, Path=IsOpen}">
+                <WrapPanel
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Orientation="Horizontal">
+
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        FontFamily="Lucida Console"
+                        FontSize="33"
+                        Text="Справка" />
+
+                </WrapPanel>
+            </ToggleButton>
+
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+
+
+    <Controls:MetroWindow.WindowButtonCommands>
+        <Controls:WindowButtonCommands Style="{DynamicResource MahApps.Metro.Styles.WindowButtonCommands.Win10}" />
+    </Controls:MetroWindow.WindowButtonCommands>
+
+
+    <Window.Resources>
+        <Style TargetType="{x:Type Controls:Flyout}">
+            <Setter Property="AnimateOpacity" Value="False" />
+            <Setter Property="AreAnimationsEnabled" Value="True" />
+            <Setter Property="CloseButtonVisibility" Value="Visible" />
+            <Setter Property="IsPinned" Value="True" />
+            <Setter Property="Position" Value="Left" />
+        </Style>
+    </Window.Resources>
+
+    <Controls:MetroWindow.Flyouts>
+        <Controls:FlyoutsControl>
+
+            <Controls:Flyout
+                x:Name="UpfHelp_Flyout"
+                Width="{Binding Path=ActualWidth, ElementName=UpdTextBox}"
+                CloseButtonVisibility="Visible"
+                IsModal="True"
+                IsOpen="True"
+                IsPinned="False"
+                Position="Bottom">
+                <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+                    <Grid>
+                        <TextBlock
+                            Margin="0,10,20,15"
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Stretch"
+                            DockPanel.Dock="Right"
+                            FontSize="16"
+                            Foreground="WhiteSmoke"
+                            TextWrapping="Wrap">
+                            <Run Text="Обнаруженные у вас файлы установщика не совпадают с последней версией оригинальных файлов. Вероятней всего это означает, что появилась их новая, обновлённая и улучшенная версия. Так же возможно находящиеся у вас файлы из данного списка были модифицированы злоумышленниками с целью внедрения в них вирусов." />
+                            <LineBreak /> <LineBreak />
+                            <Run Text="Настоятельно рекомендуем скачать все новые версии файлов из списка и заменить ими те, что сейчас находятся в директории установщика." />
+                            <LineBreak /> <LineBreak />
+                            <Run Text="Если вы обновите лишь часть файлов или не станете их обновлять вовсе, то работа и итоговый результат программы установки могут быть некорректными." />
+                        </TextBlock>
+
+                    </Grid>
+                </ScrollViewer>
+            </Controls:Flyout>
+
+        </Controls:FlyoutsControl>
+    </Controls:MetroWindow.Flyouts>
+
+
+    <DockPanel
+        x:Name="UpdTextBox"
+        Margin="0,0,0,0"
+        HorizontalAlignment="Stretch">
+        <ScrollViewer
+            HorizontalAlignment="Stretch"
+            HorizontalScrollBarVisibility="Disabled"
+            VerticalScrollBarVisibility="Auto">
+
+            <TextBlock
+                Margin="15,10,15,15"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"
+                tbe:TextBlockExt.FormattedText="{Binding UpdLog, Mode=OneWay}"
+                DockPanel.Dock="Left"
+                Focusable="True"
+                FontFamily="Verdana"
+                FontSize="15"
+                Foreground="WhiteSmoke"
+                TextWrapping="Wrap" />
+
+        </ScrollViewer>
+
+
+    </DockPanel>
+
+
+</Controls:MetroWindow>
