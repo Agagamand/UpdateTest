@@ -1,0 +1,524 @@
+[
+  {
+    "Name": "Setup.exe",
+    "Size": 4506112,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": "1.0.0.2|\n• Добавлена поддержка программы удаления.\n• При каждом запуске установщика теперь будет производиться проверка на наличие новых версий всех его файлов.\n• Теперь разрядность установщика зависит от разрядности операционной системы."
+  },
+  {
+    "Name": "Game.zip",
+    "Size": 990416407,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": "Добавлена программа удаления."
+  },
+  {
+    "Name": "Localization\csCZ-Max Prasák\d2speech.mpq",
+    "Size": 451692799,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\csCZ-Max Prasák\D2Video.mpq",
+    "Size": 223488389,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\csCZ-Max Prasák\D2xVideo.mpq",
+    "Size": 67452219,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\csCZ-Max Prasák\text.zip",
+    "Size": 1560134,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\deDE\d2speech.mpq",
+    "Size": 176697998,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\deDE\D2Video.mpq",
+    "Size": 324377389,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\deDE\d2xtalk.mpq",
+    "Size": 62003804,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\deDE\D2xVideo.mpq",
+    "Size": 78999499,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\deDE\text.zip",
+    "Size": 1727291,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\enUS\d2speech.mpq",
+    "Size": 163021838,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\enUS\D2Video.mpq",
+    "Size": 320313765,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\enUS\d2xtalk.mpq",
+    "Size": 60278192,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\enUS\D2xVideo.mpq",
+    "Size": 79226307,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\enUS\text.zip",
+    "Size": 1325580,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\esES\d2speech.mpq",
+    "Size": 179700314,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\esES\D2Video.mpq",
+    "Size": 324473837,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\esES\d2xtalk.mpq",
+    "Size": 65893629,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\esES\D2xVideo.mpq",
+    "Size": 79098647,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\esES\text.zip",
+    "Size": 891574,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\frFR\d2speech.mpq",
+    "Size": 162710369,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\frFR\D2Video.mpq",
+    "Size": 326125161,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\frFR\d2xtalk.mpq",
+    "Size": 67578407,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\frFR\D2xVideo.mpq",
+    "Size": 79265995,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\frFR\text.zip",
+    "Size": 1280392,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\itIT\d2speech.mpq",
+    "Size": 174169866,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\itIT\D2Video.mpq",
+    "Size": 324537521,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\itIT\d2xtalk.mpq",
+    "Size": 64435150,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\itIT\D2xVideo.mpq",
+    "Size": 79021683,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\itIT\text.zip",
+    "Size": 1359584,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\plPL\d2speech.mpq",
+    "Size": 213717185,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\plPL\D2Video.mpq",
+    "Size": 324783273,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\plPL\d2xtalk.mpq",
+    "Size": 70203677,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\plPL\D2xVideo.mpq",
+    "Size": 79107055,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\plPL\text.zip",
+    "Size": 2400366,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\koKR\D2Video.mpq",
+    "Size": 319485349,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\koKR\D2xVideo.mpq",
+    "Size": 79225591,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\koKR\text.zip",
+    "Size": 5853372,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-7Волк\d2speech.mpq",
+    "Size": 127004976,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-7Волк\D2Video.mpq",
+    "Size": 311564137,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-7Волк\d2xtalk.mpq",
+    "Size": 256473320,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-7Волк\D2xVideo.mpq",
+    "Size": 79226307,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-7Волк\text.zip",
+    "Size": 2071612,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-8BiT\d2speech.mpq",
+    "Size": 329729912,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-8BiT\D2Video.mpq",
+    "Size": 312263777,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-8BiT\d2xtalk.mpq",
+    "Size": 122789229,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-8BiT\D2xVideo.mpq",
+    "Size": 81044051,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-DM\text.zip",
+    "Size": 1560044,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Frezzze\D2Video.mpq",
+    "Size": 305238021,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Frezzze\D2xVideo.mpq",
+    "Size": 82559051,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-L’Autour\text.zip",
+    "Size": 1254185,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+    {
+    "Name": "Localization\ruRU-Triada\d2speech.mpq",
+    "Size": 313220360,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Triada\D2Video.mpq",
+    "Size": 311434333,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Triada\d2xtalk.mpq",
+    "Size": 129186538,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Triada\D2xVideo.mpq",
+    "Size": 81044051,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Дядюшка Рисёч\d2speech.mpq",
+    "Size": 340045321,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Дядюшка Рисёч\D2Video.mpq",
+    "Size": 326178825,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Дядюшка Рисёч\d2xtalk.mpq",
+    "Size": 145023000,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Дядюшка Рисёч\D2xVideo.mpq",
+    "Size": 81335215,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Дядюшка Рисёч\text.zip",
+    "Size": 1572256,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Русский Проект\d2speech.mpq",
+    "Size": 394413749,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Русский Проект\D2Video.mpq",
+    "Size": 320313765,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Фаргус\d2speech.mpq",
+    "Size": 517572025,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Фаргус\D2Video.mpq",
+    "Size": 311774649,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Фаргус\d2xtalk.mpq",
+    "Size": 62903026,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Фаргус\D2xVideo.mpq",
+    "Size": 76553751,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ruRU-Фаргус\text.zip",
+    "Size": 1857196,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\ukUA-Xisterion\text.zip",
+    "Size": 1119513,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\Edit music\ffmpeg.exe",
+    "Size": 46900224,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\In main menu\Diablo.wav",
+    "Size": 8148384,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\In main menu\Diablo II.wav",
+    "Size": 14744460,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\In main menu\Diablo II - Lord of Destruction.wav",
+    "Size": 8819620,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\In main menu\Diablo III.wav",
+    "Size": 25328732,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\In main menu\Diablo III - Reaper of Souls.wav",
+    "Size": 44394044,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\MP3 of the Week\D2Music.mpq",
+    "Size": 343437229,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\Original\D2Music.mpq",
+    "Size": 209409507,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\Original\D2xMusic.mpq",
+    "Size": 51439284,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\Soundtrack\D2Music.mpq",
+    "Size": 661745242,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Music\Soundtrack\D2xMusic.mpq",
+    "Size": 244154409,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\BaseMod.zip",
+    "Size": 1918330,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\CPU Usage fix.zip",
+    "Size": 3041099,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\Extended Inventory.zip",
+    "Size": 340110,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\Extended Mercenary Equipment.zip",
+    "Size": 43719,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\MultiRes.zip",
+    "Size": 1040282,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\No Equipment Loss on Death.zip",
+    "Size": 2390558,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  },
+  {
+    "Name": "Mods\PlugY.zip",
+    "Size": 508722,
+	"URL": "http://gestyy.com/w2bhyc",
+    "Comment": ""
+  }
+]
