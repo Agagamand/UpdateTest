@@ -2,63 +2,63 @@
   {
     "Name": "Setup.exe",
     "Size": 15368192,
-    "Hash": "029AF28341DDCE17",
+    "Hash": "F8A29CD3",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": "1.0.0.2|\n• Добавлена поддержка программы удаления.\n• При каждом запуске установщика теперь будет производиться проверка на наличие новых версий всех его файлов.\n• Теперь разрядность установщика зависит от разрядности операционной системы."
   },
   {
     "Name": "Game.zip",
     "Size": 1749796954,
-    "Hash": "3F160A1419A24E7D",
+    "Hash": "E96B1967",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": "Добавлена программа удаления."
   },
   {
     "Name": "[Voice] enUS.zip",
     "Size": 89499656,
-    "Hash": "3418CB01ECF874DB",
+    "Hash": "B2E97453",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Voice] esES.zip",
     "Size": 91437857,
-    "Hash": "8F760CEEB4E95DAF",
+    "Hash": "721E2662",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Voice] ruRU-Новый диск.zip",
     "Size": 86052139,
-    "Hash": "9362FE3FF041625A",
+    "Hash": "4F076CA6",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Mod] Alternative video player.zip",
     "Size": 28386714,
-    "Hash": "46584B9B1FBC6238",
+    "Hash": "59867F9A",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Mod] dgVoodoo 2.zip",
     "Size": 355884,
-    "Hash": "53FEE439F9A6FD1C",
+    "Hash": "31450343",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Mod] Fix cutscene.zip",
     "Size": 1396251,
-    "Hash": "0D0B62780AB6E472",
+    "Hash": "13D400D7",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   },
   {
     "Name": "[Mod] More Nazism.zip",
     "Size": 7755690,
-    "Hash": "6D780528F5DEC619",
+    "Hash": "D082144A",
     "URL": "http://corneey.com/w2MTJh",
     "Comment": ""
   }
