@@ -2,609 +2,609 @@
   {
     "Name": "Setup.exe",
     "Size": 4506112,
-    "Hash": "966E378957B313CA",
+    "Hash": "398D0872",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": "1.0.0.2|\n• Добавлена поддержка программы удаления.\n• При каждом запуске установщика теперь будет производиться проверка на наличие новых версий всех его файлов.\n• Теперь разрядность установщика зависит от разрядности операционной системы."
   },
   {
     "Name": "Game.zip",
     "Size": 990416407,
-    "Hash": "273D31AEF4582D21",
+    "Hash": "D82AED30",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": "Добавлена программа удаления."
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\d2speech.mpq",
     "Size": 451692799,
-    "Hash": "19FFD807D906F5A2",
+    "Hash": "F11EA3A9",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\D2Video.mpq",
     "Size": 223488389,
-    "Hash": "731260488E4A5D2D",
+    "Hash": "A76F6196",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\D2xVideo.mpq",
     "Size": 67452219,
-    "Hash": "B90BBD1158CD8B3B",
+    "Hash": "AB24D5B5",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\text.zip",
     "Size": 1560134,
-    "Hash": "BE64E4D7F774DA28",
+    "Hash": "F1594D0D",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\deDE\\d2speech.mpq",
     "Size": 176697998,
-    "Hash": "6CE0A89DF4A49D17",
+    "Hash": "8898357E",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\deDE\\D2Video.mpq",
     "Size": 324377389,
-    "Hash": "F29D1CA4CD63FEBC",
+    "Hash": "4A033E1F",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\deDE\\d2xtalk.mpq",
     "Size": 62003804,
-    "Hash": "C078DCC37CF83B3A",
+    "Hash": "A8B98DC7",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\deDE\\D2xVideo.mpq",
     "Size": 78999499,
-    "Hash": "A1DA156B09D1E7E0",
+    "Hash": "35CEA3A6",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\deDE\\text.zip",
     "Size": 1727291,
-    "Hash": "7D98D86AA0FE7230",
+    "Hash": "4D0AAA6E",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\enUS\\d2speech.mpq",
     "Size": 163021838,
-    "Hash": "EC8920326B6A6E3E",
+    "Hash": "D62BDF98",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\enUS\\D2Video.mpq",
     "Size": 320313765,
-    "Hash": "04E7ADEE68869FE5",
+    "Hash": "843F1C06",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\enUS\\d2xtalk.mpq",
     "Size": 60278192,
-    "Hash": "CE8D6F625C34860C",
+    "Hash": "6CFFD467",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\enUS\\D2xVideo.mpq",
     "Size": 79226307,
-    "Hash": "E79D2012EAB5273D",
+    "Hash": "238685B4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\enUS\\text.zip",
     "Size": 1325580,
-    "Hash": "52181173C25B5C3D",
+    "Hash": "A438B658",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\esES\\d2speech.mpq",
     "Size": 179700314,
-    "Hash": "73D43C507DF8B113",
+    "Hash": "52EFB16E",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\esES\\D2Video.mpq",
     "Size": 324473837,
-    "Hash": "592FECFBAC965A0F",
+    "Hash": "F8A941C4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\esES\\d2xtalk.mpq",
     "Size": 65893629,
-    "Hash": "3535756B112487F3",
+    "Hash": "5C78AD36",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\esES\\D2xVideo.mpq",
     "Size": 79098647,
-    "Hash": "0060CB4EF95B690F",
+    "Hash": "FBE9DF93",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\esES\\text.zip",
     "Size": 891574,
-    "Hash": "8D440F1568362E5F",
+    "Hash": "E476796D",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\frFR\\d2speech.mpq",
     "Size": 162710369,
-    "Hash": "16638BB610604997",
+    "Hash": "425BB2B7",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\frFR\\D2Video.mpq",
     "Size": 326125161,
-    "Hash": "BC869146ADA86F5B",
+    "Hash": "766FE279",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\frFR\\d2xtalk.mpq",
     "Size": 67578407,
-    "Hash": "7C67D081E63A6889",
+    "Hash": "4A89C5F5",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\frFR\\D2xVideo.mpq",
     "Size": 79265995,
-    "Hash": "AA3D6964BA4A4BFA",
+    "Hash": "C6F21559",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\frFR\\text.zip",
     "Size": 1280392,
-    "Hash": "0C642863AEFE50AE",
+    "Hash": "6E4233C6",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\itIT\\d2speech.mpq",
     "Size": 174169866,
-    "Hash": "5BB4F8EA646D6305",
+    "Hash": "800B18D4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\itIT\\D2Video.mpq",
     "Size": 324537521,
-    "Hash": "6C26467B94FD1A47",
+    "Hash": "059BD903",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\itIT\\d2xtalk.mpq",
     "Size": 64435150,
-    "Hash": "12D406DD830513B6",
+    "Hash": "B3F987FF",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\itIT\\D2xVideo.mpq",
     "Size": 79021683,
-    "Hash": "EBC5C8E434F3561B",
+    "Hash": "C6DE9940",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\itIT\\text.zip",
     "Size": 1359584,
-    "Hash": "87A400930553090E",
+    "Hash": "B0A250F1",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\plPL\\d2speech.mpq",
     "Size": 213717185,
-    "Hash": "5570531C37250113",
+    "Hash": "7F7BF62F",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\plPL\\D2Video.mpq",
     "Size": 324783273,
-    "Hash": "5F65D668772A0C3D",
+    "Hash": "309DD58E",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\plPL\\d2xtalk.mpq",
     "Size": 70203677,
-    "Hash": "2EAE481DFFE2B76D",
+    "Hash": "0C1F596E",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\plPL\\D2xVideo.mpq",
     "Size": 79107055,
-    "Hash": "E902CD3B3ACA523A",
+    "Hash": "5B0D971B",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\plPL\\text.zip",
     "Size": 2400366,
-    "Hash": "079BC2364B3BE85E",
+    "Hash": "20989C77",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\koKR\\D2Video.mpq",
     "Size": 319485349,
-    "Hash": "A6EDADDF8E2C7C54",
+    "Hash": "5F5167D0",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\koKR\\D2xVideo.mpq",
     "Size": 79225591,
-    "Hash": "A6EF85BFF73FA46E",
+    "Hash": "50D81709",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\koKR\\text.zip",
     "Size": 5853372,
-    "Hash": "3556E205CFC6F819",
+    "Hash": "CF3CB85D",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-7Волк\\d2speech.mpq",
     "Size": 127004976,
-    "Hash": "2A58C2DA7333545F",
+    "Hash": "1DF5AD4C",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-7Волк\\D2Video.mpq",
     "Size": 311564137,
-    "Hash": "01254CD0DF8932F2",
+    "Hash": "40F0E17B",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-7Волк\\d2xtalk.mpq",
     "Size": 256473320,
-    "Hash": "6BC84DBE41494276",
+    "Hash": "65D6A6B4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-7Волк\\D2xVideo.mpq",
     "Size": 79226307,
-    "Hash": "926403BABB9F6A3B",
+    "Hash": "93D39DC4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-7Волк\\text.zip",
     "Size": 2071612,
-    "Hash": "B873E1B13FD17990",
+    "Hash": "67E36B86",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-8BiT\\d2speech.mpq",
     "Size": 329729912,
-    "Hash": "30AE510A36DD7262",
+    "Hash": "A1CDCE35",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-8BiT\\D2Video.mpq",
     "Size": 312263777,
-    "Hash": "E962596D2F1B14F7",
+    "Hash": "AFD176BB",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-8BiT\\d2xtalk.mpq",
     "Size": 122789229,
-    "Hash": "0D367E84DA5E9CFC",
+    "Hash": "4EE91D78",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-8BiT\\D2xVideo.mpq",
     "Size": 81044051,
-    "Hash": "AD5FBDF46C2D82FD",
+    "Hash": "9D029DC4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-DM\\text.zip",
     "Size": 1560044,
-    "Hash": "91AF324F00303F9F",
+    "Hash": "8B2EC6B6",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Frezzze\\D2Video.mpq",
     "Size": 305238021,
-    "Hash": "7AA12B8599C49875",
+    "Hash": "2D840163",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Frezzze\\D2xVideo.mpq",
     "Size": 82559051,
-    "Hash": "4A4FDFC759111E27",
+    "Hash": "D3D289DA",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-L’Autour\\text.zip",
     "Size": 1254185,
-    "Hash": "F930933972401776",
+    "Hash": "6DAC66BB",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Triada\\d2speech.mpq",
     "Size": 313220360,
-    "Hash": "5F2D42A0D690CEA4",
+    "Hash": "D2D05E3A",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Triada\\D2Video.mpq",
     "Size": 311434333,
-    "Hash": "FDE796DDA22C1BD9",
+    "Hash": "7A0ADDD5",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Triada\\d2xtalk.mpq",
     "Size": 129186538,
-    "Hash": "5E4B8D33FF082343",
+    "Hash": "FE038F4C",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Triada\\D2xVideo.mpq",
     "Size": 81044051,
-    "Hash": "AD5FBDF46C2D82FD",
+    "Hash": "9D029DC4",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\d2speech.mpq",
     "Size": 340045321,
-    "Hash": "0242B0A553AA2914",
+    "Hash": "8B34B373",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\D2Video.mpq",
     "Size": 326178825,
-    "Hash": "EAEAED1FC4B24836",
+    "Hash": "AAC9E4AF",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\d2xtalk.mpq",
     "Size": 145023000,
-    "Hash": "348CAC38B833F17F",
+    "Hash": "65F6C2A2",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\D2xVideo.mpq",
     "Size": 81335215,
-    "Hash": "6363AADA610E22A3",
+    "Hash": "13DD1266",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\text.zip",
     "Size": 1572256,
-    "Hash": "B8827AAF5862A8EC",
+    "Hash": "7E8B70AD",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Русский Проект\\d2speech.mpq",
     "Size": 394413749,
-    "Hash": "0765B310573F3CCD",
+    "Hash": "5BAB04A8",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Русский Проект\\D2Video.mpq",
     "Size": 320313765,
-    "Hash": "1FAD90B4F10099A0",
+    "Hash": "F6307FC9",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\d2speech.mpq",
     "Size": 517572025,
-    "Hash": "23405BF86A8B1447",
+    "Hash": "E73782E5",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\D2Video.mpq",
     "Size": 311774649,
-    "Hash": "4B7348F3742F02D5",
+    "Hash": "EC1E5552",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\d2xtalk.mpq",
     "Size": 62903026,
-    "Hash": "FD8B9433D2D9A707",
+    "Hash": "D6B7C704",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\D2xVideo.mpq",
     "Size": 76553751,
-    "Hash": "C4935D1949768CA5",
+    "Hash": "ED216C73",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\text.zip",
     "Size": 1857196,
-    "Hash": "F51CF7D8883A2AC0",
+    "Hash": "B4C4E209",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Localization\\ukUA-Xisterion\\text.zip",
     "Size": 1119513,
-    "Hash": "FBB4A45DF262BC3F",
+    "Hash": "47096727",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\Edit music\\ffmpeg.exe",
     "Size": 46900224,
-    "Hash": "141CBA2D94857A6D",
+    "Hash": "511B9844",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\In main menu\\Diablo.wav",
     "Size": 8148384,
-    "Hash": "AD69EA61E5AFEE23",
+    "Hash": "595B57EE",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\In main menu\\Diablo II.wav",
     "Size": 14744460,
-    "Hash": "6EBEC289E9791155",
+    "Hash": "36BC86FF",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\In main menu\\Diablo II - Lord of Destruction.wav",
     "Size": 8819620,
-    "Hash": "C4F61085E7111453",
+    "Hash": "ABD34261",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\In main menu\\Diablo III.wav",
     "Size": 25328732,
-    "Hash": "5E909D76C81CEA3F",
+    "Hash": "6DF0FBCF",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\In main menu\\Diablo III - Reaper of Souls.wav",
     "Size": 44394044,
-    "Hash": "BB0DCBA8D5FAC809",
+    "Hash": "A2645C7A",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\MP3 of the Week\\D2Music.mpq",
     "Size": 343437229,
-    "Hash": "664D0D19C802152C",
+    "Hash": "29B78243",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\Original\\D2Music.mpq",
     "Size": 209409507,
-    "Hash": "DBB7AD3D4E813C76",
+    "Hash": "FD7F0710",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\Original\\D2xMusic.mpq",
     "Size": 51439284,
-    "Hash": "9A32F8103FB74AC5",
+    "Hash": "527DFA75",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\Soundtrack\\D2Music.mpq",
     "Size": 661745242,
-    "Hash": "D2B787B19CA9D6C5",
+    "Hash": "BCA95CCF",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Music\\Soundtrack\\D2xMusic.mpq",
     "Size": 244154409,
-    "Hash": "8DFFC409CEAAAD96",
+    "Hash": "F56189B7",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\BaseMod.zip",
     "Size": 1918330,
-    "Hash": "2D5CE2AFE5700738",
+    "Hash": "5B5E87A0",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\CPU Usage fix.zip",
     "Size": 3041099,
-    "Hash": "763A3E0B8CD44D61",
+    "Hash": "EB10CA6B",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\Extended Inventory.zip",
     "Size": 340110,
-    "Hash": "E31F0783B5BEC8B0",
+    "Hash": "6265630A",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\Extended Mercenary Equipment.zip",
     "Size": 43719,
-    "Hash": "C59DC7D733ECE251",
+    "Hash": "5E78428F",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\MultiRes.zip",
     "Size": 1040282,
-    "Hash": "01508DB41E625C05",
+    "Hash": "D293D821",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\No Equipment Loss on Death.zip",
     "Size": 2390558,
-    "Hash": "A4553836E055B0EE",
+    "Hash": "6983DEED",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   },
   {
     "Name": "Mods\\PlugY.zip",
     "Size": 508722,
-    "Hash": "9AEB02C05A736378",
+    "Hash": "ACD57E3C",
     "URL": "http://gestyy.com/w2bhyc",
     "Comment": ""
   }
