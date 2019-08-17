@@ -2,70 +2,70 @@
   {
     "Name": "Setup.exe",
     "Size": 6666240,
-    "Hash": "6DE348C11EAFB813",
+    "Hash": "0B390D15",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": "1.0.0.1|\n• Добавлена поддержка программы удаления.\n• При каждом запуске установщика теперь будет производиться проверка на наличие новых версий всех его файлов.\n• Теперь разрядность установщика зависит от разрядности операционной системы."
   },
   {
     "Name": "Game.zip",
     "Size": 704160810,
-    "Hash": "EE0D9D9CEB466888",
+    "Hash": "5FF5253B",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": "Добавлена программа удаления."
   },
   {
     "Name": "ruRU-Фаргус.zip",
     "Size": 184632193,
-    "Hash": "B5C12CB9A973DBFA",
+    "Hash": "F2B74682",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "ruRU-Stream.zip",
     "Size": 101281615,
-    "Hash": "81BF125DABCFEADD",
+    "Hash": "799315D8",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "ruRU-daemon.zip",
     "Size": 104906396,
-    "Hash": "2DBB5109D0068DB7",
+    "Hash": "9EAE60F9",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "plPL-Noktis.zip",
     "Size": 96765501,
-    "Hash": "147473D70B705B33",
+    "Hash": "65A69FE0",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "frFR-Protheus.zip",
     "Size": 18162485,
-    "Hash": "DDF74B18A61D101A",
+    "Hash": "340E9659",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "deDE-Iljitsch.zip",
     "Size": 80081484,
-    "Hash": "0CD53F05F8728596",
+    "Hash": "143C39E5",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "csCZ-Raptor.zip",
     "Size": 644139,
-    "Hash": "D04EE4D5CB8277BB",
+    "Hash": "4D0F4A5C",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   },
   {
     "Name": "csCZ-Adam Rambousek.zip",
     "Size": 1840518,
-    "Hash": "FF9376C23618F38B",
+    "Hash": "D23F185A",
     "URL": "http://gestyy.com/w2bdXQ",
     "Comment": ""
   }
