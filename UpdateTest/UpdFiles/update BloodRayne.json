@@ -1,65 +1,51 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 15812096,
-    "Hash": "3A816D7E",
-    "URL": "http://corneey.com/w2MTJh",
+    "Size": 17714295,
+    "Hash": "9299911B",
+    "URL": "https://cloud.32mb.de/s/DmcyqWwcbRaYSEJ/download",
     "Comment": "http://pasted.co/df6e6952"
   },
   {
     "Name": "Game.zip",
-    "Size": 993854861,
-    "Hash": "B4F245FD",
-    "URL": "http://corneey.com/w2MTJh",
-    "Comment": "Добавлена программа удаления."
+    "Size": 994352426,
+    "Hash": "2A1329C4",
+    "URL": "https://cloud.32mb.de/s/q4LqLLL9jMGDwew/download",
+    "Comment": "Обновлена программа удаления."
+  },
+  {
+    "Name": "Texts.zip",
+    "Size": 717286,
+    "Hash": "956DFA44",
+    "URL": "https://cloud.32mb.de/s/DKkHE4Ar2ajZn9D/download",
+    "Comment": ""
   },
   {
     "Name": "[Voice] enUS.zip",
     "Size": 89499656,
     "Hash": "B2E97453",
-    "URL": "http://corneey.com/w2MTJh",
+    "URL": "https://cloud.32mb.de/s/z3CJ9nQDj4Pmczr/download",
     "Comment": ""
   },
   {
     "Name": "[Voice] esES.zip",
     "Size": 91437857,
     "Hash": "721E2662",
-    "URL": "http://corneey.com/w2MTJh",
+    "URL": "https://cloud.32mb.de/s/jD4GTQY7cwdzPQe/download",
     "Comment": ""
   },
   {
-    "Name": "[Voice] ruRU-Новый диск.zip",
+    "Name": "[Voice] ruRU.zip",
     "Size": 86052139,
-    "Hash": "4F076CA6",
-    "URL": "http://corneey.com/w2MTJh",
+    "Hash": "84841524",
+    "URL": "https://cloud.32mb.de/s/JdPjs9QAZsKbLfz/download",
     "Comment": ""
   },
   {
-    "Name": "[Mod] Alternative video player.zip",
-    "Size": 28386714,
-    "Hash": "59867F9A",
-    "URL": "http://corneey.com/w2MTJh",
-    "Comment": ""
-  },
-  {
-    "Name": "[Mod] dgVoodoo 2.zip",
-    "Size": 355884,
-    "Hash": "31450343",
-    "URL": "http://corneey.com/w2MTJh",
-    "Comment": ""
-  },
-  {
-    "Name": "[Mod] Fix cutscene.zip",
-    "Size": 1396251,
-    "Hash": "13D400D7",
-    "URL": "http://corneey.com/w2MTJh",
-    "Comment": ""
-  },
-  {
-    "Name": "[Mod] More Nazism.zip",
-    "Size": 7755690,
-    "Hash": "D082144A",
-    "URL": "http://corneey.com/w2MTJh",
+    "Name": "Mods.zip",
+    "Size": 23683068,
+    "Hash": "1A05154D",
+    "URL": "https://cloud.32mb.de/s/wjJMsHapigmGNmT/download",
     "Comment": ""
   }
 ]
