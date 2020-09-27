@@ -1,0 +1,527 @@
+[
+  {
+    "Name": "Setup.exe",
+    "Size": 14003666,
+    "Hash": "46ad615d9e9b9c0de541137a0ef81adf",
+    "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
+    "Comment": "Косметические улучшения."
+  },
+  {
+    "Name": "Game.zip",
+    "Size": 244301683,
+    "Hash": "d558541989ab771569fcd892a8b3a5b9",
+    "URL": "https://cloud.32mb.de/s/T4tBjjjFzSDmjyK/download",
+    "Comment": "Обновлены шейдеры"
+  },
+  {
+    "Name": "Music.zip",
+    "Size": 683578079,
+    "Hash": "286864b07c2a029b9dd935ab9f7ccd6b",
+    "URL": "https://cloud.32mb.de/s/D7TeatbnaBYtgf8/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Video.zip",
+    "Size": 599946033,
+    "Hash": "82e43ecba51925a6dcc5fdbce45c4b9d",
+    "URL": "https://cloud.32mb.de/s/F2E4TodcA5gRXAA/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Enslavers\\enUS.zip",
+    "Size": 646869,
+    "Hash": "f87650ade8c1c0a882757ea335344550",
+    "URL": "https://cloud.32mb.de/s/QGSZW2c4wyA6EQX/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Enslavers\\ruRU-bobchik.ghost.zip",
+    "Size": 1015254,
+    "Hash": "1983f995959dbc177e204b7ed7414be9",
+    "URL": "https://cloud.32mb.de/s/6FoWCeiZPpHQmJA/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Enslavers - Dark Vengeance\\enUS.zip",
+    "Size": 987386,
+    "Hash": "5276acaff625059c5041d34c4a41add3",
+    "URL": "https://cloud.32mb.de/s/4S5jK8RpGg7B6qw/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Enslavers - Dark Vengeance\\ruRU-bobchik.ghost.zip",
+    "Size": 2043912,
+    "Hash": "95bc2cbf5586c173799a7be9c0f29990",
+    "URL": "https://cloud.32mb.de/s/6jcMc8a2N9n72n9/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Insurrection\\enUS.zip",
+    "Size": 100118197,
+    "Hash": "e90f02e680d5c1ab508a01c52d5591b2",
+    "URL": "https://cloud.32mb.de/s/o3j43kngEDmrb7P/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Insurrection\\ruRU-7Волк.zip",
+    "Size": 237066713,
+    "Hash": "705e03bef7dc6bea60e8d6bfb9027b3c",
+    "URL": "https://cloud.32mb.de/s/trXXwfqcM74pYLm/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Insurrection\\ruRU-Russian Group.zip",
+    "Size": 329483599,
+    "Hash": "0a35224323b191cceba13174cba7a0e4",
+    "URL": "https://cloud.32mb.de/s/fKfKrqPWxF6QLtF/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Insurrection\\ruRU-Фаргус.zip",
+    "Size": 237060550,
+    "Hash": "e6e2b5d4839ebda34eabe5dc56603954",
+    "URL": "https://cloud.32mb.de/s/m9ADxTRt7ymMLGZ/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Precursor\\enUS.zip",
+    "Size": 7823451,
+    "Hash": "27b7a8a870579018923ee85cbec112a7",
+    "URL": "https://cloud.32mb.de/s/7Gbxm4fF5TqEJ5j/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Precursor\\ruRU-bobchik.ghost.zip",
+    "Size": 17993349,
+    "Hash": "ced5750a402e3af0be11b393a67d6c1d",
+    "URL": "https://cloud.32mb.de/s/3gtdTHKrdgYY8cd/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Retribution\\enUS.zip",
+    "Size": 31138952,
+    "Hash": "e5f4e0207cbd73735324b88a13f135a5",
+    "URL": "https://cloud.32mb.de/s/RmcXFGwQXzddnxk/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Addons\\Retribution\\ruRU-bobchik.ghost.zip",
+    "Size": 71041453,
+    "Hash": "50d71ffb78562b63e5407ac1984e7cae",
+    "URL": "https://cloud.32mb.de/s/AFqqrWMaioy2q23/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Classic\\Text.zip",
+    "Size": 3418736,
+    "Hash": "022144814d78747058a255adc9f73e40",
+    "URL": "https://cloud.32mb.de/s/57eSRtdW9d3awqB/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Classic\\Briefings.zip",
+    "Size": 423826255,
+    "Hash": "242ee6da5464a4154d1aa9e0ddca257f",
+    "URL": "https://cloud.32mb.de/s/R8taPZotpzxBzNe/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Classic\\Units.zip",
+    "Size": 34803599,
+    "Hash": "8f65835622ae1416c122b8945f992932",
+    "URL": "https://cloud.32mb.de/s/kXBiANYea2ksoLN/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Classic\\Videos.zip",
+    "Size": 91177729,
+    "Hash": "f954229a28fd18b61d429619e668685c",
+    "URL": "https://cloud.32mb.de/s/XicGyq2x6Dxx6sc/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Remastered\\Briefings.zip",
+    "Size": 824551716,
+    "Hash": "928eba1fb2a500d673a5f8f51039500d",
+    "URL": "https://cloud.32mb.de/s/mZWaHssrn4aoCa6/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Remastered\\Units.zip",
+    "Size": 174029197,
+    "Hash": "2ff63017cde639c7e7598e28ad50bcc3",
+    "URL": "https://cloud.32mb.de/s/m7KxQFELnz7tGJy/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\enUS-Remastered\\Videos.zip",
+    "Size": 236963878,
+    "Hash": "5adef9b8004ac8ba6e20ef797310aaf9",
+    "URL": "https://cloud.32mb.de/s/LDk4xwpn7b5dAFq/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Classic\\Text.zip",
+    "Size": 4615694,
+    "Hash": "8b28c2bab0346f8a2bcfb7f4b2073dce",
+    "URL": "https://cloud.32mb.de/s/9dFKgP66FJ5x2jg/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Classic\\Briefings.zip",
+    "Size": 501294860,
+    "Hash": "a846842f5d8950e83737fe8c14c5f941",
+    "URL": "https://cloud.32mb.de/s/m4FgCXmTraLMJPe/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Classic\\Units.zip",
+    "Size": 36613314,
+    "Hash": "19fda6c01a80ed10f84a10b404b805fa",
+    "URL": "https://cloud.32mb.de/s/swNFcaL7zXW8TiK/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Classic\\Videos.zip",
+    "Size": 112044943,
+    "Hash": "87e3d0372d2511a9d41c9890717a2d19",
+    "URL": "https://cloud.32mb.de/s/ySDeMDPwEgxNsK4/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Remastered\\Text.zip",
+    "Size": 4356202,
+    "Hash": "f92eb9503a99d30e4b9abfadea1dadbc",
+    "URL": "https://cloud.32mb.de/s/BXasDwNjKKLFksW/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Remastered\\Briefings.zip",
+    "Size": 942799652,
+    "Hash": "0f9c4aa3719a2fa2a3bba317ec679443",
+    "URL": "https://cloud.32mb.de/s/Rid3RNELwgiC28E/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\deDE-Remastered\\Units.zip",
+    "Size": 85793562,
+    "Hash": "5ee2fd1d1b0367c62abe3d7688383374",
+    "URL": "https://cloud.32mb.de/s/XDTe2PsCstqddPe/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Classic\\Text.zip",
+    "Size": 4835753,
+    "Hash": "c0dcc5ca1c3c864f5ed9363b27d6318f",
+    "URL": "https://cloud.32mb.de/s/7FFw6e4sfrY3mb3/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Classic\\Briefings.zip",
+    "Size": 402580914,
+    "Hash": "558fc6fefdd7391a2c4ea71f591eeb9e",
+    "URL": "https://cloud.32mb.de/s/MA9T5Dgp9GbWkL2/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Classic\\Units.zip",
+    "Size": 42382174,
+    "Hash": "880013086c972761292c545c9908f65a",
+    "URL": "https://cloud.32mb.de/s/gSKiYB96cyeACbD/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Classic\\Videos.zip",
+    "Size": 131015014,
+    "Hash": "bd61e564ba2f265a666200bc9228a011",
+    "URL": "https://cloud.32mb.de/s/7L9kGd4PXjr6afc/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Remastered\\Text.zip",
+    "Size": 4598546,
+    "Hash": "584997ba2ce2db67e4c451e009b54113",
+    "URL": "https://cloud.32mb.de/s/CQgqNiWRKkmdxpR/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Remastered\\Briefings.zip",
+    "Size": 834408077,
+    "Hash": "26f5b7ffa9b4767c6525d95b7693f3e7",
+    "URL": "https://cloud.32mb.de/s/2W5JCBHesYde2oG/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esES-Remastered\\Units.zip",
+    "Size": 75180166,
+    "Hash": "917899d350a25cd8185dd6ffcb540f27",
+    "URL": "https://cloud.32mb.de/s/LMbnotimzGDGw2X/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esMX-Remastered\\Briefings.zip",
+    "Size": 844299538,
+    "Hash": "894ba59048c03eebb0150d9d8fa1431d",
+    "URL": "https://cloud.32mb.de/s/RFzzPfoW3C76YGE/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\esMX-Remastered\\Units.zip",
+    "Size": 75976572,
+    "Hash": "76745c02d457ca4647cec8189dfc117f",
+    "URL": "https://cloud.32mb.de/s/byM9swDzDxRziKK/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Classic\\Text.zip",
+    "Size": 4621899,
+    "Hash": "aea565f9a32ca798093a40f68bbf345a",
+    "URL": "https://cloud.32mb.de/s/yBMY2P9LbpCN3W4/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Classic\\Briefings.zip",
+    "Size": 378037345,
+    "Hash": "5e798d8dcff3a151f0b1cd53fcdb243b",
+    "URL": "https://cloud.32mb.de/s/jCJXCapAEYTwSxP/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Classic\\Units.zip",
+    "Size": 37621415,
+    "Hash": "0fa7f53f51146942692b792ac5e10205",
+    "URL": "https://cloud.32mb.de/s/ttrWkDZxNGHiGPd/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Classic\\Videos.zip",
+    "Size": 118178728,
+    "Hash": "79bed038cf357e938636470c278a6f00",
+    "URL": "https://cloud.32mb.de/s/L6TDQPA75EGAomR/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Remastered\\Briefings.zip",
+    "Size": 848002238,
+    "Hash": "e6ed6a35c4302b46a3f18437e90d5198",
+    "URL": "https://cloud.32mb.de/s/BH9jNgcGmPHDtTc/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\frFR-Remastered\\Units.zip",
+    "Size": 75407795,
+    "Hash": "55c8e6464fbaebf19b98294bffe4d691",
+    "URL": "https://cloud.32mb.de/s/isFE7SQBoMiPNy2/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Classic\\Text.zip",
+    "Size": 4914285,
+    "Hash": "3928fd2a79713fa8c4d18c244c686952",
+    "URL": "https://cloud.32mb.de/s/rarFLn2m43tzdWA/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Classic\\Briefings.zip",
+    "Size": 424045938,
+    "Hash": "975b6ac3bdf5012458dbca44312307d8",
+    "URL": "https://cloud.32mb.de/s/DAQS3WGncESiAKF/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Classic\\Units.zip",
+    "Size": 41132145,
+    "Hash": "3df12c01a4f1d1a582abbeeeec2747ea",
+    "URL": "https://cloud.32mb.de/s/K9PfrxQFoMBDYx8/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Classic\\Videos.zip",
+    "Size": 103794343,
+    "Hash": "b50d275b87e571a280ea4f8075e4fafe",
+    "URL": "https://cloud.32mb.de/s/gFemMsoWJPTZrRc/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Remastered\\Text.zip",
+    "Size": 4655607,
+    "Hash": "fa075171f514dc211be78831ebe909c9",
+    "URL": "https://cloud.32mb.de/s/3bbBjp38jojwZgc/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Remastered\\Briefings.zip",
+    "Size": 847118720,
+    "Hash": "6efad98db0ee571faa80b567279929d9",
+    "URL": "https://cloud.32mb.de/s/LkSwHprckbbZqTm/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\itIT-Remastered\\Units.zip",
+    "Size": 79092447,
+    "Hash": "b8a108ef4c03727dd8c02294808702de",
+    "URL": "https://cloud.32mb.de/s/G9k2HkGZGky76nP/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\jaJP-Remastered\\Briefings.zip",
+    "Size": 851605944,
+    "Hash": "afb81742e416b636d76a22ce372f5215",
+    "URL": "https://cloud.32mb.de/s/4s53PL4mB4fj5WY/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\jaJP-Remastered\\Units.zip",
+    "Size": 72767810,
+    "Hash": "483d3036941de61374346308ac151f46",
+    "URL": "https://cloud.32mb.de/s/kor3sompX2yrgki/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\koKR-Remastered\\Briefings.zip",
+    "Size": 826320988,
+    "Hash": "d540645e3ec3383d06644071608db757",
+    "URL": "https://cloud.32mb.de/s/QmknrQHXfmjiWjb/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\koKR-Remastered\\Units.zip",
+    "Size": 77431455,
+    "Hash": "f35b944853efadcdfc5516b337ddaac6",
+    "URL": "https://cloud.32mb.de/s/bgpiFHWx6XoQokb/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\plPL-Remastered\\Briefings.zip",
+    "Size": 864404445,
+    "Hash": "8a4829e23dde9ee571c97280a86c9348",
+    "URL": "https://cloud.32mb.de/s/jRF9Df8Lze85ngE/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\plPL-Remastered\\Units.zip",
+    "Size": 80489522,
+    "Hash": "4ce5fb2f5660e649462d08cfc2d5635e",
+    "URL": "https://cloud.32mb.de/s/ox24DTwXdnpT9r8/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ptBR-Remastered\\Briefings.zip",
+    "Size": 815019242,
+    "Hash": "56b56e08e9427b23c942756b07291acd",
+    "URL": "https://cloud.32mb.de/s/jRMaHxFEXXMiyDY/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ptBR-Remastered\\Units.zip",
+    "Size": 74939616,
+    "Hash": "b93ba66b844f676c5998e667875397a3",
+    "URL": "https://cloud.32mb.de/s/taLGHpsHQk24W84/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-7Волк\\Text.zip",
+    "Size": 2810199,
+    "Hash": "acdf6be2431571b78d8f93cfa7129c07",
+    "URL": "https://cloud.32mb.de/s/GkfWDrtN8Meg9ZK/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-7Волк\\Briefings.zip",
+    "Size": 335163122,
+    "Hash": "3b95117f80102f99becda4d0045382f0",
+    "URL": "https://cloud.32mb.de/s/JyzJisbSQQbmnTX/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-7Волк\\Units.zip",
+    "Size": 29245158,
+    "Hash": "c1f8868adae87e4664cf4ab98be55826",
+    "URL": "https://cloud.32mb.de/s/G8Y2JtMgykXm2cL/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-7Волк\\Videos.zip",
+    "Size": 90457201,
+    "Hash": "9aed45195fc74cf42e9e02d55cf61472",
+    "URL": "https://cloud.32mb.de/s/JTbGiGGwnriN8i3/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Фаргус\\Text.zip",
+    "Size": 2595297,
+    "Hash": "35d33efb90e3046ad53418d382c87ee8",
+    "URL": "https://cloud.32mb.de/s/bfsT8aYEYgk2fke/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Фаргус\\Briefings.zip",
+    "Size": 362126747,
+    "Hash": "c35151981af07c0877777df3aa790632",
+    "URL": "https://cloud.32mb.de/s/BLANeX3nWTGYDEn/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Фаргус\\Units.zip",
+    "Size": 35049795,
+    "Hash": "7360990abcf3a1db7278a9cab27b083e",
+    "URL": "https://cloud.32mb.de/s/gbr6sKZqoGXSezK/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Фаргус\\Videos.zip",
+    "Size": 100919280,
+    "Hash": "5a370ea973f4cc8ec6cab7cdbaaba02e",
+    "URL": "https://cloud.32mb.de/s/9PEaZpRDjpmQCqg/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Remastered\\Text.zip",
+    "Size": 2849632,
+    "Hash": "554e83420cd8b09939be0e91843d7e0e",
+    "URL": "https://cloud.32mb.de/s/qFNbTpxzggiQ4Ak/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Remastered\\Briefings.zip",
+    "Size": 850085739,
+    "Hash": "5b5b4398217e35897e189452283dd0e5",
+    "URL": "https://cloud.32mb.de/s/RMySnE4QgTSEPdR/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\ruRU-Remastered\\Units.zip",
+    "Size": 78178181,
+    "Hash": "9763d0c2c59d3c649674b5bfa90542d2",
+    "URL": "https://cloud.32mb.de/s/Nmt4iWE7L4ijLP8/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\zhCN-Remastered\\Briefings.zip",
+    "Size": 816704347,
+    "Hash": "c825a864d5aedacb39c2bdc3167ea965",
+    "URL": "https://cloud.32mb.de/s/nAcrKkm7cNCHE93/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\zhCN-Remastered\\Units.zip",
+    "Size": 88034868,
+    "Hash": "f796da7bdead4c28f3c301d19a8e8f0a",
+    "URL": "https://cloud.32mb.de/s/zyzFr4XaayxFiTB/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\zhTW-Remastered\\Briefings.zip",
+    "Size": 853188879,
+    "Hash": "0879feeacc567c1cd094805c5265098e",
+    "URL": "https://cloud.32mb.de/s/nJyWqiQfA2RK8Es/download",
+    "Comment": ""
+  },
+  {
+    "Name": "Localization\\zhTW-Remastered\\Units.zip",
+    "Size": 83577034,
+    "Hash": "3c2cef88b984456f2af9e5c9717df783",
+    "URL": "https://cloud.32mb.de/s/imcfdpe4a6ZJqpa/download",
+    "Comment": ""
+  }
+]
