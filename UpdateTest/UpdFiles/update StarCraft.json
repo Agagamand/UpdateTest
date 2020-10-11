@@ -1,22 +1,22 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 13506526,
-    "Hash": "b516c9a978a9d8af5e77f3357825ed34",
+    "Size": 13510622,
+    "Hash": "3180d107f139a27332308f6cab9356cc",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
-    "Comment": "Косметические улучшения."
+    "Comment": "Улучшена поддержка Wine"
   },
   {
     "Name": "Setup XP.exe",
-    "Size": 5363712,
-    "Hash": "be23cc1fa796df6943bec7600a6c3e50",
-    "URL": "https://cloud.32mb.de/s/Kg4zw4CAc42A97z/download",
+    "Size": 5261824,
+    "Hash": "f6a194d48c4b9fb1d94fa1ca2c4dc7f7",
+    "URL": "https://cloud.32mb.de/s/QGdogA3TeDqkfH9/download",
     "Comment": null
   },
   {
     "Name": "Game.zip",
-    "Size": 244301683,
-    "Hash": "d558541989ab771569fcd892a8b3a5b9",
+    "Size": 244339188,
+    "Hash": "b58ec37e0b4179f84784fec15c8a2952",
     "URL": "https://cloud.32mb.de/s/T4tBjjjFzSDmjyK/download",
     "Comment": "Обновлены шейдеры"
   },
