@@ -1,72 +1,72 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 14073205,
-    "Hash": "4B4F9CC4",
+    "Size": 15691617,
+    "Hash": "7cbca2fc3e2a1f8dc165bd7193cb291f",
     "URL": "https://cloud.32mb.de/s/4pAw9BBoeegJimG/download",
     "Comment": "https://controlc.com/92de9761"
   },
   {
     "Name": "Game.zip",
-    "Size": 704662130,
-    "Hash": "333360D0",
+    "Size": 706003691,
+    "Hash": "39937dab71f319d6c53596a9416798d8",
     "URL": "https://cloud.32mb.de/s/M8qMwqo8DxxNHqk/download",
     "Comment": "Обновлена программа удаления."
   },
   {
     "Name": "ruRU-Фаргус.zip",
     "Size": 186602351,
-    "Hash": "64624DE5",
+    "Hash": "05431764c8221fe54feea375ab1108cb",
     "URL": "https://cloud.32mb.de/s/mWDbycCsGPCEyiZ/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "ruRU-Stream.zip",
     "Size": 109285558,
-    "Hash": "B8C7F77E",
+    "Hash": "9358a1abb2ce1288fa1225851eb0083a",
     "URL": "https://cloud.32mb.de/s/CiditAjX7GHJE5E/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "ruRU-daemon.zip",
     "Size": 104906396,
-    "Hash": "9EAE60F9",
+    "Hash": "9fc963b3bd50d7d3f6b4ebcecc974244",
     "URL": "https://cloud.32mb.de/s/QkADXWFqEbbQmzG/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "plPL-Noktis.zip",
     "Size": 96765501,
-    "Hash": "65A69FE0",
+    "Hash": "17e0d4ee4e7ca015a4d5811d03d5cdfc",
     "URL": "https://cloud.32mb.de/s/XyqSj4fXPzBGdnw/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "frFR-Protheus.zip",
     "Size": 18162485,
-    "Hash": "340E9659",
+    "Hash": "56e637df70a33874ad3c2daab8d1d770",
     "URL": "https://cloud.32mb.de/s/acwEmEJrEbPxmxc/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "deDE-Iljitsch.zip",
     "Size": 80081484,
-    "Hash": "143C39E5",
+    "Hash": "4718cacaca2d57fe39501c58c0f4e5af",
     "URL": "https://cloud.32mb.de/s/gNogX6M4Y6kbaN9/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "csCZ-Raptor.zip",
     "Size": 644139,
-    "Hash": "4D0F4A5C",
+    "Hash": "6f46c54ee4479ce2dc1163d57fe65665",
     "URL": "https://cloud.32mb.de/s/zmicsZxs7iRmT4m/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "csCZ-Adam Rambousek.zip",
     "Size": 1840518,
-    "Hash": "D23F185A",
+    "Hash": "200f9da5f428142c4d2e9588278e984b",
     "URL": "https://cloud.32mb.de/s/yA8Zryq2SwDim3N/download",
-    "Comment": ""
+    "Comment": null
   }
 ]
