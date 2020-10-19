@@ -1,50 +1,50 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 17517687,
-    "Hash": "1DD98222",
+    "Size": 18637907,
+    "Hash": "9b566c4db9da59ae463a0586c498ceba",
     "URL": "https://cloud.32mb.de/s/DmcyqWwcbRaYSEJ/download",
     "Comment": "http://pasted.co/df6e6952"
   },
   {
     "Name": "Game.zip",
-    "Size": 981508961,
-    "Hash": "7AFDFB9F",
+    "Size": 982314943,
+    "Hash": "f621699e6c0fbb2ac20ae63237644ffd",
     "URL": "https://cloud.32mb.de/s/q4LqLLL9jMGDwew/download",
     "Comment": "Обновлена программа удаления."
   },
   {
     "Name": "Texts.zip",
     "Size": 717286,
-    "Hash": "956DFA44",
+    "Hash": "11f12b963cc6b039dd7b76d6335cac9b",
     "URL": "https://cloud.32mb.de/s/DKkHE4Ar2ajZn9D/download",
     "Comment": ""
   },
   {
     "Name": "[Voice] enUS.zip",
     "Size": 89499656,
-    "Hash": "B2E97453",
+    "Hash": "b77036d538f215f2bad01db1e0907438",
     "URL": "https://cloud.32mb.de/s/z3CJ9nQDj4Pmczr/download",
     "Comment": ""
   },
   {
     "Name": "[Voice] esES.zip",
     "Size": 91437857,
-    "Hash": "721E2662",
+    "Hash": "125345d594c6b39910a52f47a780bfa5",
     "URL": "https://cloud.32mb.de/s/jD4GTQY7cwdzPQe/download",
     "Comment": ""
   },
   {
     "Name": "[Voice] ruRU.zip",
     "Size": 84841524,
-    "Hash": "6C00F30F",
+    "Hash": "82fde20facef0f8857de7ab04c4a3bce",
     "URL": "https://cloud.32mb.de/s/JdPjs9QAZsKbLfz/download",
     "Comment": ""
   },
   {
     "Name": "Mods.zip",
     "Size": 24034733,
-    "Hash": "807AEA4D",
+    "Hash": "e342ca362c790f57c99d68f6ff1efb0b",
     "URL": "https://cloud.32mb.de/s/wjJMsHapigmGNmT/download",
     "Comment": "Обновлён dgVoodoo 2 до версии 2.63.2"
   }
