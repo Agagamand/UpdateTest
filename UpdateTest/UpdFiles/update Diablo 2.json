@@ -1,610 +1,610 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 13367353,
-    "Hash": "BBCB753A",
+    "Size": 15502165,
+    "Hash": "6d8bbf31a6232eb2130b59c5d59516c9",
     "URL": "https://cloud.32mb.de/s/rDawmDtfaEESGWY/download",
     "Comment": "http://pasted.co/a9504ac8"
   },
   {
     "Name": "Game.zip",
-    "Size": 900700997,
-    "Hash": "BE514448",
+    "Size": 900735794,
+    "Hash": "5f64feba51584efd2ee656795af11697",
     "URL": "https://cloud.32mb.de/s/QJEXQE58dLZx2pw/download",
     "Comment": "Улучшена совместимость старых версий игры с новыми версиями Windows."
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\d2speech.mpq",
     "Size": 451692799,
-    "Hash": "F11EA3A9",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "b60b802e163338a860a9181bb8d1a3d3",
+    "URL": "https://cloud.32mb.de/s/o6k8m7GygoWYfLg/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\D2Video.mpq",
     "Size": 223488389,
-    "Hash": "A76F6196",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "95be11dd5a57025f5f910effabe0a423",
+    "URL": "https://cloud.32mb.de/s/BC2WKzL9DPizQw9/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\D2xVideo.mpq",
     "Size": 67452219,
-    "Hash": "AB24D5B5",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "2b26e8a36930e90f4f0e1b0ed745871b",
+    "URL": "https://cloud.32mb.de/s/9GyjJtXpfSPmNen/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\csCZ-Max Prasák\\text.zip",
     "Size": 1560134,
-    "Hash": "F1594D0D",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "9c8c863c32c2194f2a187e1f4c198fda",
+    "URL": "https://cloud.32mb.de/s/rcWzFYn4PXFCGS2/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\deDE\\d2speech.mpq",
     "Size": 176697998,
-    "Hash": "8898357E",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "b0fd838334094ddc587a1a4024ebb109",
+    "URL": "https://cloud.32mb.de/s/2itbBccWGexHNii/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\deDE\\D2Video.mpq",
     "Size": 324377389,
-    "Hash": "4A033E1F",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "56c45b6b0353423fd266bf6a74cf4f91",
+    "URL": "https://cloud.32mb.de/s/KjaKWsdjxsHqPX9/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\deDE\\d2xtalk.mpq",
     "Size": 62003804,
-    "Hash": "A8B98DC7",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "069a24b4f06c8516f5ec69d8b2c5068e",
+    "URL": "https://cloud.32mb.de/s/pqfMr3NTrMaLyaK/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\deDE\\D2xVideo.mpq",
     "Size": 78999499,
-    "Hash": "35CEA3A6",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "14776003ed597a1ec1f5f4a7c1d25dea",
+    "URL": "https://cloud.32mb.de/s/GJB5SyYPtTQcQRK/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\deDE\\text.zip",
     "Size": 1727291,
-    "Hash": "4D0AAA6E",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "b2be49de2cafa385546bc42fd98b3234",
+    "URL": "https://cloud.32mb.de/s/DZod4FxwdDJZNDo/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\enUS\\d2speech.mpq",
     "Size": 163021838,
-    "Hash": "D62BDF98",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "a6237681f1eff3a34f10c81718518710",
+    "URL": "https://cloud.32mb.de/s/wfBJ6ef3mRSpp54/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\enUS\\D2Video.mpq",
     "Size": 320313765,
-    "Hash": "843F1C06",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "27b7a330a6cb57e986b1e286a9ee1944",
+    "URL": "https://cloud.32mb.de/s/TeikCiN8mHPByLb/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\enUS\\d2xtalk.mpq",
     "Size": 60278192,
-    "Hash": "6CFFD467",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "76904388d3d33e47e40163c203b332aa",
+    "URL": "https://cloud.32mb.de/s/QkNyGpGEnZLLjBQ/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\enUS\\D2xVideo.mpq",
     "Size": 79226307,
-    "Hash": "238685B4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "0d53bdbf2e34bd3eb91d1b6af1797320",
+    "URL": "https://cloud.32mb.de/s/rK9rEDaNT4XbNPZ/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\enUS\\text.zip",
     "Size": 1325580,
-    "Hash": "A438B658",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "a6237681f1eff3a34f10c81718518710",
+    "URL": "https://cloud.32mb.de/s/dTFsjdpGk6JnG2L/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\esES\\d2speech.mpq",
     "Size": 179700314,
-    "Hash": "52EFB16E",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "6e11ee4a533de4ad3d9e97eab8f7179c",
+    "URL": "https://cloud.32mb.de/s/JTd2kqczKc3M5nD/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\esES\\D2Video.mpq",
     "Size": 324473837,
-    "Hash": "F8A941C4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "a9e57230f43debe33de7982d9579a7d7",
+    "URL": "https://cloud.32mb.de/s/9wKMTDtX5f7to3R/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\esES\\d2xtalk.mpq",
     "Size": 65893629,
-    "Hash": "5C78AD36",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "dd517e0aaffd5ce5652a0470b3101791",
+    "URL": "https://cloud.32mb.de/s/ycFKGtGrTNXD6nA/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\esES\\D2xVideo.mpq",
     "Size": 79098647,
-    "Hash": "FBE9DF93",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "326ca91cccf7fa0c43ef9770e577640a",
+    "URL": "https://cloud.32mb.de/s/i4owzdXr3MRpGq8/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\esES\\text.zip",
     "Size": 891574,
-    "Hash": "E476796D",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "41df3f2831a15634c6d0e2705dabfd61",
+    "URL": "https://cloud.32mb.de/s/a2no3pYPb9iFLrr/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\frFR\\d2speech.mpq",
     "Size": 162710369,
-    "Hash": "425BB2B7",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "cead404f9795bd5b84df2674ae04e32b",
+    "URL": "https://cloud.32mb.de/s/QWfj34ZT7Z3ZnFD/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\frFR\\D2Video.mpq",
     "Size": 326125161,
-    "Hash": "766FE279",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "9d2c1d43a6d3eda66793d62b8b9dc9d7",
+    "URL": "https://cloud.32mb.de/s/qT2imdNQ6j2ryzr/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\frFR\\d2xtalk.mpq",
     "Size": 67578407,
-    "Hash": "4A89C5F5",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "83b79fdb999749df3e1617eb0622b693",
+    "URL": "https://cloud.32mb.de/s/SKfbPM5XNo32WiX/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\frFR\\D2xVideo.mpq",
     "Size": 79265995,
-    "Hash": "C6F21559",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "cedf18886309b7191e36a8447b85152e",
+    "URL": "https://cloud.32mb.de/s/26SE8HjTdQyQjjt/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\frFR\\text.zip",
     "Size": 1280392,
-    "Hash": "6E4233C6",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "f852645abca89b20e4c65dc2fcbc6f4c",
+    "URL": "https://cloud.32mb.de/s/LBxxPfesKRtcWNr/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\itIT\\d2speech.mpq",
     "Size": 174169866,
-    "Hash": "800B18D4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "818f8cecdc6fc55099aeb5a128700374",
+    "URL": "https://cloud.32mb.de/s/cXqeak2RgAkMKmQ/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\itIT\\D2Video.mpq",
     "Size": 324537521,
-    "Hash": "059BD903",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "b8bb6439b0bcd7ea94253c3a8279d0d6",
+    "URL": "https://cloud.32mb.de/s/PxMXk9aMsBMAAiH/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\itIT\\d2xtalk.mpq",
     "Size": 64435150,
-    "Hash": "B3F987FF",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "561c76f05a640723746a155fbb89a621",
+    "URL": "https://cloud.32mb.de/s/6iDeQQtqmeRZodL/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\itIT\\D2xVideo.mpq",
     "Size": 79021683,
-    "Hash": "C6DE9940",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "418d18a6782244e72c1c5581cb69a0df",
+    "URL": "https://cloud.32mb.de/s/5F3ycByYwxaLyyP/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\itIT\\text.zip",
     "Size": 1359584,
-    "Hash": "B0A250F1",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
-  },
-  {
-    "Name": "Localization\\plPL\\d2speech.mpq",
-    "Size": 213717185,
-    "Hash": "7F7BF62F",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
-  },
-  {
-    "Name": "Localization\\plPL\\D2Video.mpq",
-    "Size": 324783273,
-    "Hash": "309DD58E",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
-  },
-  {
-    "Name": "Localization\\plPL\\d2xtalk.mpq",
-    "Size": 70203677,
-    "Hash": "0C1F596E",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
-  },
-  {
-    "Name": "Localization\\plPL\\D2xVideo.mpq",
-    "Size": 79107055,
-    "Hash": "5B0D971B",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
-  },
-  {
-    "Name": "Localization\\plPL\\text.zip",
-    "Size": 2400366,
-    "Hash": "20989C77",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "0f771f2815b432d24b4fd3dd33345ef1",
+    "URL": "https://cloud.32mb.de/s/REdTqf72pmoDXZF/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\koKR\\D2Video.mpq",
     "Size": 319485349,
-    "Hash": "5F5167D0",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "cdb578d848f527a6845f6ff5a442d298",
+    "URL": "https://cloud.32mb.de/s/MNDkcMpSEcYHKsa/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\koKR\\D2xVideo.mpq",
     "Size": 79225591,
-    "Hash": "50D81709",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "e3d0ff1c7edb2b108f8a1aed0845f128",
+    "URL": "https://cloud.32mb.de/s/Sn4fB7pgbxfwncK/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\koKR\\text.zip",
     "Size": 5853372,
-    "Hash": "CF3CB85D",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "717bb1a34cca95ae5d1e56a43cc5c0de",
+    "URL": "https://cloud.32mb.de/s/m3xzAejMeBGo4da/download",
+    "Comment": null
+  },
+  {
+    "Name": "Localization\\plPL\\d2speech.mpq",
+    "Size": 213717185,
+    "Hash": "2021e97a54febb042ec2bbc455813e21",
+    "URL": "https://cloud.32mb.de/s/bHTq8LKQbbPs3ES/download",
+    "Comment": null
+  },
+  {
+    "Name": "Localization\\plPL\\D2Video.mpq",
+    "Size": 324783273,
+    "Hash": "1b69a473c4acdf8b3e8b9e79125efd0c",
+    "URL": "https://cloud.32mb.de/s/KKZZrH72yMGXpC6/download",
+    "Comment": null
+  },
+  {
+    "Name": "Localization\\plPL\\d2xtalk.mpq",
+    "Size": 70203677,
+    "Hash": "7bc749bee1c320b3620220a5ceb268ce",
+    "URL": "https://cloud.32mb.de/s/xbcedmAC2jzHTrF/download",
+    "Comment": null
+  },
+  {
+    "Name": "Localization\\plPL\\D2xVideo.mpq",
+    "Size": 79107055,
+    "Hash": "2bb99519afa7a634103519f94ed1ebf4",
+    "URL": "https://cloud.32mb.de/s/7QRfyq3NZgfaNSJ/download",
+    "Comment": null
+  },
+  {
+    "Name": "Localization\\plPL\\text.zip",
+    "Size": 2400366,
+    "Hash": "e498087b1f28c8dbf8d5e00f5ca7ad45",
+    "URL": "https://cloud.32mb.de/s/2xMseqeNdXebMq6/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-7Волк\\d2speech.mpq",
     "Size": 127004976,
-    "Hash": "1DF5AD4C",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "5a9a22e398d710173fb1ae99ed31c936",
+    "URL": "https://cloud.32mb.de/s/pHLjBcdPDsjCYFJ/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-7Волк\\D2Video.mpq",
     "Size": 311564137,
-    "Hash": "40F0E17B",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "3a7ae0c4be0c8799a44d320c168805c0",
+    "URL": "https://cloud.32mb.de/s/APmBqa8QKZpadye/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-7Волк\\d2xtalk.mpq",
     "Size": 256473320,
-    "Hash": "65D6A6B4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "ef6889fe49c96d53a9c1e60aab184ba0",
+    "URL": "https://cloud.32mb.de/s/cHECL3FDTZc7Egq/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-7Волк\\D2xVideo.mpq",
     "Size": 79226307,
-    "Hash": "93D39DC4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "fead2bb2c99c28729c95510c45a07b44",
+    "URL": "https://cloud.32mb.de/s/WQtCG7dGmy9pYHG/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-7Волк\\text.zip",
     "Size": 2071612,
-    "Hash": "67E36B86",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "3d453ffb2dc55255606f9192e3af1f07",
+    "URL": "https://cloud.32mb.de/s/yyfgCapHYEqmkeJ/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-8BiT\\d2speech.mpq",
     "Size": 329729912,
-    "Hash": "A1CDCE35",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "267224b66772fe88575fff95908d0e0e",
+    "URL": "https://cloud.32mb.de/s/ERZoPYFTNcs3mq5/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-8BiT\\D2Video.mpq",
     "Size": 312263777,
-    "Hash": "AFD176BB",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "0165a5d27f1da0e5eb5f8501d3f54db6",
+    "URL": "https://cloud.32mb.de/s/qfKfMYGJGkWJqqg/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-8BiT\\d2xtalk.mpq",
     "Size": 122789229,
-    "Hash": "4EE91D78",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "160482fcaa7dd46735096ab44bb9bb63",
+    "URL": "https://cloud.32mb.de/s/na9aRdnRN6mirfG/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-8BiT\\D2xVideo.mpq",
     "Size": 81044051,
-    "Hash": "9D029DC4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "c19ef5856b76b945d3f0dab05bd9c845",
+    "URL": "https://cloud.32mb.de/s/68DJS6XALDfqSs5/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-DM\\text.zip",
     "Size": 1560044,
-    "Hash": "8B2EC6B6",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "bfa6a3fb37ecba88e3c3c8ccde1db8b4",
+    "URL": "https://cloud.32mb.de/s/8NggwdyAWAMydf2/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Frezzze\\D2Video.mpq",
     "Size": 305238021,
-    "Hash": "2D840163",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "e9c5b1e5ac045fea0c2043a7fe878cd7",
+    "URL": "https://cloud.32mb.de/s/cCapBNkYEMqxGPC/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Frezzze\\D2xVideo.mpq",
     "Size": 82559051,
-    "Hash": "D3D289DA",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "67bbe06d1102ae65db97d5ad80cfb8b7",
+    "URL": "https://cloud.32mb.de/s/ZaDtiR2sSatasWR/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-L’Autour\\text.zip",
     "Size": 1254185,
-    "Hash": "6DAC66BB",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "ea58a5091bffd0513614f95c8b188ce4",
+    "URL": "https://cloud.32mb.de/s/YxYy5Y7xaRNRSGY/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Triada\\d2speech.mpq",
     "Size": 313220360,
-    "Hash": "D2D05E3A",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "9f238ad4f52ba01a33cd1eca6a5aa520",
+    "URL": "https://cloud.32mb.de/s/jtF59Kxa8fTgCPr/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Triada\\D2Video.mpq",
     "Size": 311434333,
-    "Hash": "7A0ADDD5",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "2ebceb983fe47b5768a2b574af5a8112",
+    "URL": "https://cloud.32mb.de/s/wDsXns44a9t7yEW/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Triada\\d2xtalk.mpq",
     "Size": 129186538,
-    "Hash": "FE038F4C",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "e3ff192002dfb4f057eaa61c3d5103d2",
+    "URL": "https://cloud.32mb.de/s/wrxDNa2GCyZWbSW/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Triada\\D2xVideo.mpq",
     "Size": 81044051,
-    "Hash": "9D029DC4",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "c19ef5856b76b945d3f0dab05bd9c845",
+    "URL": "https://cloud.32mb.de/s/XPjsr6ikLjqSQyM/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\d2speech.mpq",
     "Size": 340045321,
-    "Hash": "8B34B373",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "7872361716a9fa3ba891e759b97ded56",
+    "URL": "https://cloud.32mb.de/s/tifYJgPKa7gLcMB/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\D2Video.mpq",
     "Size": 326178825,
-    "Hash": "AAC9E4AF",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "99a78ca466a829a3fc792ce207e84e98",
+    "URL": "https://cloud.32mb.de/s/eDoRMkDLeYiDdA6/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\d2xtalk.mpq",
     "Size": 145023000,
-    "Hash": "65F6C2A2",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "8981c6308384d336ff76b9d5e289cf22",
+    "URL": "https://cloud.32mb.de/s/WjoGWCqYZBjK5fA/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\D2xVideo.mpq",
     "Size": 81335215,
-    "Hash": "13DD1266",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "976b5023c2935997d5e424f12ccebdd4",
+    "URL": "https://cloud.32mb.de/s/eLtB4Rd3oQY7w8G/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Дядюшка Рисёч\\text.zip",
     "Size": 1572256,
-    "Hash": "7E8B70AD",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "f0fed291fe9993f203c8899e0df1335b",
+    "URL": "https://cloud.32mb.de/s/q7xJ9jbxt2s36FR/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Русский Проект\\d2speech.mpq",
     "Size": 394413749,
-    "Hash": "5BAB04A8",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "d268497022a29f07f36e8f6b083109bc",
+    "URL": "https://cloud.32mb.de/s/B9swB3yr52S6YYe/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Русский Проект\\D2Video.mpq",
     "Size": 320313765,
-    "Hash": "F6307FC9",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "ff8fed74ac43b0ed8211471c0b08f0af",
+    "URL": "https://cloud.32mb.de/s/KX2jdzqw4xyp63P/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\d2speech.mpq",
     "Size": 517572025,
-    "Hash": "E73782E5",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "a2fa79a3b80cd3b1cae9712025bce909",
+    "URL": "https://cloud.32mb.de/s/d7JRJxEWj38cdJ2/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\D2Video.mpq",
     "Size": 311774649,
-    "Hash": "EC1E5552",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "9f3c72278d2fd486d365c1ff816dccd2",
+    "URL": "https://cloud.32mb.de/s/G9LPFDRPkFrFnEk/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\d2xtalk.mpq",
     "Size": 62903026,
-    "Hash": "D6B7C704",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "11f057322bef1d495c8d204c42b2c4bf",
+    "URL": "https://cloud.32mb.de/s/k4Hejoczq7cz3cn/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\D2xVideo.mpq",
     "Size": 76553751,
-    "Hash": "ED216C73",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "fc325d801adbf9e41581835a3a2dd0a2",
+    "URL": "https://cloud.32mb.de/s/6raBRoD3H2EoR5g/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ruRU-Фаргус\\text.zip",
     "Size": 1857196,
-    "Hash": "B4C4E209",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "ac3ac0244ac2816a40bcc9a1dd841f01",
+    "URL": "https://cloud.32mb.de/s/ySygkbiG5FQGzzP/download",
+    "Comment": null
   },
   {
     "Name": "Localization\\ukUA-Xisterion\\text.zip",
     "Size": 1119513,
-    "Hash": "47096727",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "0d4f91af4f238b892390255484b4c0a0",
+    "URL": "https://cloud.32mb.de/s/dKtzbEPXicbNTbA/download",
+    "Comment": null
   },
   {
     "Name": "Music\\Edit music\\ffmpeg.exe",
     "Size": 46900224,
-    "Hash": "511B9844",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "73acaa85cf62d33b501874f938359d15",
+    "URL": "https://cloud.32mb.de/s/jDdqrmcf9wjLRGk/download",
+    "Comment": null
   },
   {
     "Name": "Music\\In main menu\\Diablo.wav",
     "Size": 8148384,
-    "Hash": "595B57EE",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "64831f3f2c6de247400be694125ace60",
+    "URL": "https://cloud.32mb.de/s/aAH6Pod6F6rDjez/download",
+    "Comment": null
   },
   {
     "Name": "Music\\In main menu\\Diablo II.wav",
     "Size": 14744460,
-    "Hash": "36BC86FF",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "08a80421b4dbc9c292cf62a39452ce47",
+    "URL": "https://cloud.32mb.de/s/QPec2Qcto8MPGYn/download",
+    "Comment": null
   },
   {
     "Name": "Music\\In main menu\\Diablo II - Lord of Destruction.wav",
     "Size": 8819620,
-    "Hash": "ABD34261",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "9c184bb7f83850fbbfd43796914647aa",
+    "URL": "https://cloud.32mb.de/s/myNwyjFZqtDGLGp/download",
+    "Comment": null
   },
   {
     "Name": "Music\\In main menu\\Diablo III.wav",
     "Size": 12664422,
-    "Hash": "50DA9392",
-    "URL": "http://gestyy.com/w8E1mX",
+    "Hash": "eb23e8a21964912aa2486ab3c1959ed6",
+    "URL": "https://cloud.32mb.de/s/TfQLjKc43Dbd69g/download",
     "Comment": "Теперь музыка будет воспроизводиться не в замедленной скорости."
   },
   {
     "Name": "Music\\In main menu\\Diablo III - Reaper of Souls.wav",
     "Size": 22197078,
-    "Hash": "F21B7A1D",
-    "URL": "http://gestyy.com/w8E1ET",
+    "Hash": "4c079ba45c8cd7afc4c8c6e3f96e729c",
+    "URL": "https://cloud.32mb.de/s/xjt8fHsbysrrwAe/download",
     "Comment": "Теперь музыка будет воспроизводиться не в замедленной скорости."
   },
   {
     "Name": "Music\\MP3 of the Week\\D2Music.mpq",
     "Size": 545493684,
-    "Hash": "96DA55C8",
-    "URL": "http://gestyy.com/w8EPUy",
+    "Hash": "953f4fe16e747062a60c6a606f100fc8",
+    "URL": "https://cloud.32mb.de/s/KCEFjs6Cx3Kt8AY/download",
     "Comment": "Теперь музыка будет воспроизводиться не в замедленной скорости."
   },
   {
     "Name": "Music\\Original\\D2Music.mpq",
     "Size": 209409507,
-    "Hash": "FD7F0710",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "47fce1740b7860380e2f0c51b9aae22e",
+    "URL": "https://cloud.32mb.de/s/XsTtjAQ28z2DtEn/download",
+    "Comment": null
   },
   {
     "Name": "Music\\Original\\D2xMusic.mpq",
     "Size": 51439284,
-    "Hash": "527DFA75",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "f08f5aa992ebf588a56cd7b0253abe23",
+    "URL": "https://cloud.32mb.de/s/YDWeDcMpeQHdxF9/download",
+    "Comment": null
   },
   {
     "Name": "Music\\Soundtrack\\D2Music.mpq",
     "Size": 373005623,
-    "Hash": "149863DB",
-    "URL": "http://gestyy.com/w8EPDb",
+    "Hash": "0bd12b214dc4ec343d57c681517e251e",
+    "URL": "https://cloud.32mb.de/s/R2NLbB7jn9K9fgB/download",
     "Comment": "Теперь музыка будет воспроизводиться не в замедленной скорости."
   },
   {
     "Name": "Music\\Soundtrack\\D2xMusic.mpq",
     "Size": 124005092,
-    "Hash": "202EE8C2",
-    "URL": "http://gestyy.com/w8EPVb",
+    "Hash": "dba169d7d564ebebbaa20b734c638169",
+    "URL": "https://cloud.32mb.de/s/trbt5itLke3NCJ2/download",
     "Comment": "Теперь музыка будет воспроизводиться не в замедленной скорости."
   },
   {
     "Name": "Mods\\BaseMod.zip",
     "Size": 2529930,
-    "Hash": "BEEB5629",
-    "URL": "http://gestyy.com/w8ax5Q",
+    "Hash": "224ff3a8b0a7f9c9fd9cb649281212fd",
+    "URL": "https://cloud.32mb.de/s/6P6RDntr72n3zGC/download",
     "Comment": "Обновлён до версии 1.13.3-pre4"
   },
   {
     "Name": "Mods\\CPU Usage fix.zip",
     "Size": 3041099,
-    "Hash": "EB10CA6B",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "b59f8aa309257b89726a5e58696e171e",
+    "URL": "https://cloud.32mb.de/s/mqfXtm2QspJnHgD/download",
+    "Comment": null
   },
   {
     "Name": "Mods\\Extended Inventory.zip",
     "Size": 340110,
-    "Hash": "6265630A",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "1cc14c0fc3f0a089f5de7756517e3a43",
+    "URL": "https://cloud.32mb.de/s/XxmRYCtCgM9rqQs/download",
+    "Comment": null
   },
   {
     "Name": "Mods\\Extended Mercenary Equipment.zip",
     "Size": 43719,
-    "Hash": "5E78428F",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "94b65cd437f42a57e1aa38dca56322bc",
+    "URL": "https://cloud.32mb.de/s/FCeGDX88iSoHLaJ/download",
+    "Comment": null
   },
   {
     "Name": "Mods\\MultiRes.zip",
     "Size": 1719570,
-    "Hash": "B1D17C9B",
-    "URL": "http://gestyy.com/w8acqF",
+    "Hash": "2be7b37129318e9a2742fb91f7012137",
+    "URL": "https://cloud.32mb.de/s/RsQbTGaP2mgHji7/download",
     "Comment": "Новая реализация для версии игры 1.13c"
   },
   {
     "Name": "Mods\\No Equipment Loss on Death.zip",
     "Size": 2390558,
-    "Hash": "6983DEED",
-    "URL": "http://gestyy.com/w2bhyc",
-    "Comment": ""
+    "Hash": "96e31ab3643d26b2335a3d9fc0daa3ba",
+    "URL": "https://cloud.32mb.de/s/P6QkQAfemSaGcrc/download",
+    "Comment": null
   },
   {
     "Name": "Mods\\PlugY.zip",
     "Size": 2649825,
-    "Hash": "8BD982C0",
+    "Hash": "88f2a0830357bb150e962599f9a47269",
     "URL": "https://cloud.32mb.de/s/pnNSkQNF3oFGApJ/download",
     "Comment": "Добавлен PlugY 12"
   }
