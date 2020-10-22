@@ -1,10 +1,10 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 13511646,
-    "Hash": "18610e21f30e13b48bc1b93a496d9db3",
+    "Size": 15586734,
+    "Hash": "921cb11905db68bc6c65f9b0dd6660fb",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
-    "Comment": "Улучшена поддержка Wine"
+    "Comment": "Диалоговое окно выбора языка интерфейса установщика теперь переведено на 21 язык."
   },
   {
     "Name": "Setup XP.exe",
