@@ -1,10 +1,10 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 15586734,
-    "Hash": "921cb11905db68bc6c65f9b0dd6660fb",
+    "Size": 15589294,
+    "Hash": "ea85bdb57d175a61071a4aae933e9fa7",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
-    "Comment": "Диалоговое окно выбора языка интерфейса установщика теперь переведено на 21 язык."
+    "Comment": "Исправления механизма проверки новых версий. Улучшение анимаций."
   },
   {
     "Name": "Setup XP.exe",
