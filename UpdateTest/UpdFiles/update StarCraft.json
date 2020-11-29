@@ -1,10 +1,10 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 15589294,
-    "Hash": "ea85bdb57d175a61071a4aae933e9fa7",
+    "Size": 15624615,
+    "Hash": "bb946cd40a1686edb912d66c20ad54e8",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
-    "Comment": "Исправления механизма проверки новых версий. Улучшение анимаций."
+    "Comment": "Улучшена система обновления."
   },
   {
     "Name": "Setup XP.exe",
