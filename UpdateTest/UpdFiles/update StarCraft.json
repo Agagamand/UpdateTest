@@ -1,24 +1,24 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 15624103,
-    "Hash": "83550d9d5714f21a7d0e0778faeedc8a",
+    "Size": 16062146,
+    "Hash": "19493452e0e332d7e30a573ab41cac6b",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
     "Comment": "Улучшена система обновления."
   },
   {
     "Name": "Setup XP.exe",
-    "Size": 5261824,
-    "Hash": "f6a194d48c4b9fb1d94fa1ca2c4dc7f7",
+    "Size": 5219328,
+    "Hash": "579b083f8a9599dd9a90a31a36095471",
     "URL": "https://cloud.32mb.de/s/QGdogA3TeDqkfH9/download",
     "Comment": null
   },
   {
     "Name": "Game.zip",
-    "Size": 245143317,
-    "Hash": "61742f09d0bc84b98b5c55307cffd2b1",
+    "Size": 244387522,
+    "Hash": "4cdef58569689c9298f15ffb7f416c42",
     "URL": "https://cloud.32mb.de/s/T4tBjjjFzSDmjyK/download",
-    "Comment": "Обновлены шейдеры"
+    "Comment": "Обновлена программа удаления"
   },
   {
     "Name": "Music.zip",
