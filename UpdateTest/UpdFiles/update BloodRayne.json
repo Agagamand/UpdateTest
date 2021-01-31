@@ -1,45 +1,45 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 18650707,
-    "Hash": "1a1ceca3eeb96387bc491bc10abf87ba",
+    "Size": 19559782,
+    "Hash": "fcfd91f8ebb83010a102bd911455a308",
     "URL": "https://cloud.32mb.de/s/DmcyqWwcbRaYSEJ/download",
     "Comment": "http://pasted.co/df6e6952"
   },
   {
     "Name": "Game.zip",
-    "Size": 982348476,
-    "Hash": "e985b982477050356afbde6da858026d",
+    "Size": 982314943,
+    "Hash": "f621699e6c0fbb2ac20ae63237644ffd",
     "URL": "https://cloud.32mb.de/s/q4LqLLL9jMGDwew/download",
-    "Comment": "Обновлена программа удаления."
+    "Comment": null
   },
   {
     "Name": "Texts.zip",
     "Size": 717286,
     "Hash": "11f12b963cc6b039dd7b76d6335cac9b",
     "URL": "https://cloud.32mb.de/s/DKkHE4Ar2ajZn9D/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "[Voice] enUS.zip",
     "Size": 89499656,
     "Hash": "b77036d538f215f2bad01db1e0907438",
     "URL": "https://cloud.32mb.de/s/z3CJ9nQDj4Pmczr/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "[Voice] esES.zip",
     "Size": 91437857,
     "Hash": "125345d594c6b39910a52f47a780bfa5",
     "URL": "https://cloud.32mb.de/s/jD4GTQY7cwdzPQe/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "[Voice] ruRU.zip",
     "Size": 84841524,
     "Hash": "82fde20facef0f8857de7ab04c4a3bce",
     "URL": "https://cloud.32mb.de/s/JdPjs9QAZsKbLfz/download",
-    "Comment": ""
+    "Comment": null
   },
   {
     "Name": "Mods.zip",
