@@ -1,8 +1,8 @@
 [
   {
     "Name": "Setup.exe",
-    "Size": 15231299,
-    "Hash": "1f6c87cff4c5c70c51aad0e6062653cf",
+    "Size": 15232835,
+    "Hash": "1c67a71267234b6b64e8580649457269",
     "URL": "https://cloud.32mb.de/s/rDawmDtfaEESGWY/download",
     "Comment": "http://pasted.co/a9504ac8"
   },
@@ -603,9 +603,9 @@
   },
   {
     "Name": "Mods\\PlugY.zip",
-    "Size": 2649825,
-    "Hash": "88f2a0830357bb150e962599f9a47269",
+    "Size": 2953609,
+    "Hash": "5c872b67d9fd34e87e890a0fc51fda55",
     "URL": "https://cloud.32mb.de/s/pnNSkQNF3oFGApJ/download",
-    "Comment": "Добавлен PlugY 12"
+    "Comment": "Добавлен PlugY 14"
   }
 ]
