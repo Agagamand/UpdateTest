@@ -1,8 +1,8 @@
 [
   {
     "Name": "Setup (for Windows 7).exe",
-    "Size": 90505774,
-    "Hash": "AE9A72AC",
+    "Size": 90607150,
+    "Hash": "D1558C2A",
     "URL": "https://cloud.32mb.de/s/C2EyP8TkEoY6Ek8/download",
     "Comment": null
   },
@@ -15,15 +15,15 @@
   },
   {
     "Name": "Setup (for Linux)",
-    "Size": 99618475,
-    "Hash": "E530B7F6",
+    "Size": 99719851,
+    "Hash": "65575E8C",
     "URL": "https://cloud.32mb.de/s/bo7pgY8DtwR5CHn/download",
     "Comment": null
   },
   {
     "Name": "Setup (for macOS)",
-    "Size": 95421945,
-    "Hash": "DAC32FD8",
+    "Size": 95561929,
+    "Hash": "A4A2AED1",
     "URL": "https://cloud.32mb.de/s/5AZjJKEeG4yaxqC/download",
     "Comment": null
   },
